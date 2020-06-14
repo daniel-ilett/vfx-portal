@@ -6,7 +6,7 @@ A portal visual effect created using Unity's Visual Effect Graph and URP.
 
 ## Overview
 
-This project contains a portal visual effect. The portal surface is created using several million particles generated at runtime - the project is intended to show off the power of VFX Graph compared to the old particle system. An accompanying tutorial will be available shortly.
+This project contains a portal visual effect. The portal surface is created using several million particles generated at runtime - the project is intended to show off the power of VFX Graph compared to the old particle system. An accompanying tutorial is available on [danielilett.com](https://danielilett.com/2020-06-14-tut5-8-urp-vfx-portal/).
 
 ## Software
 
